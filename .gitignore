@@ -1,0 +1,5 @@
+# Fichiers xml
+	*.xml
+# Fichiers Log
+	*.log
+	*.txt
